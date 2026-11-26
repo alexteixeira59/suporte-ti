@@ -1,0 +1,5 @@
+# Versões testadas em 18/11/2026 com Python 3.14 (Windows 11)
+customtkinter==6.0.0
+pywin32==312
+pillow==13.0.0
+pyinstaller==6.22.3
